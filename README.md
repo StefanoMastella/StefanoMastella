@@ -5,14 +5,14 @@
 
 - 🔭 I’m currently working on [DIY MEMS Sound Level Meter](https://github.com/StefanoMastella/DIY_MEMS_SPL_Meter)
 
-- 👨‍💻 All of my projects are available at [https://stefanomc.netlify.app/](https://stefanomc.netlify.app/)
+- 👨‍💻 My portifolio at [https://stefanomc.netlify.app/](https://stefanomc.netlify.app/)
 
 - 📫 How to reach me **stefanomastella@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/stéfano-mastella-500353195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stéfano-mastella-500353195" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucq20dybcnqyyr7-l3euv3qg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucq20dybcnqyyr7-l3euv3qg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/oneiroacoustika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="oneiroacoustika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
