@@ -1,8 +1,6 @@
 <h1 align="center">Greetings! I'm Stéfano Mastella</h1>
 <h3 align="center">An XXI century polymath. My range of studies varies from acoustics, technology, metaphysics, and art.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stefanomastella&label=Profile%20views&color=0e75b6&style=flat" alt="stefanomastella" /> </p>
-
 - 🔭 I’m currently working on [DIY MEMS Sound Level Meter](https://github.com/StefanoMastella/DIY_MEMS_SPL_Meter)
 
 - 👨‍💻 My portifolio at [https://stefanomc.netlify.app/](https://stefanomc.netlify.app/)
