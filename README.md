@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on automation scripts, good looking GUI and executables in Python
 
-- 👨‍💻 My portifolio at [https://stefanomastella.com/](https://stefanomastella.com/)
+- 👨‍💻 My portfolio at [https://stefanomastella.com/](https://stefanomastella.com/)
 
 - 📫 How to reach me **stefanomastella@hotmail.com**
 
