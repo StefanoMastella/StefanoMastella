@@ -1,11 +1,9 @@
 <h1 align="center">Greetings! I'm Stéfano Mastella</h1>
 <h3 align="center">An XXI century polymath. My range of studies varies from acoustics, technology, metaphysics, and arts.</h3>
 
-- 🔭 I’m currently working on Mind Garden Ecosystems in Obsidian, Acoustics Consultancy and Agentic Coding.
+🔭 I’m currently working on Mind Garden Ecosystems in Obsidian, Acoustics Consultancy and Agentic Coding.
 
-- 👨‍💻 My portfolio at [https://stefanomastella.com/](https://stefanomastella.com/)
-
-- 📫 How to reach me **stefanomastella@hotmail.com**
+📫 How to reach me **stefanomastella@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
