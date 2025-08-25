@@ -1,7 +1,7 @@
 <h1 align="center">Greetings! I'm Stéfano Mastella</h1>
 <h3 align="center">An XXI century polymath. My range of studies varies from acoustics, technology, metaphysics, and arts.</h3>
 
-- 🔭 I’m currently working on automation scripts, good looking GUI and executables in Python
+- 🔭 I’m currently working on Mind Garden Ecosystems in Obsidian, Acoustics Consultancy and Agentic Coding.
 
 - 👨‍💻 My portfolio at [https://stefanomastella.com/](https://stefanomastella.com/)
 
